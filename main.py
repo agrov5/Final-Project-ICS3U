@@ -1,14 +1,24 @@
 import pygame
 import sys
 import os
-from typing import List, Dict, Tuple, Optional
+from typing import List, Tuple
 
 # Initialize pygame
 pygame.init()
 
+# Get screen dimensions and set up screen accordingly
+info = pygame.display.Info() 
+screen_width, screen_height = info.current_w, info.current_h
+# screen = pygame.display.set_mode((screen_width, screen_height))
+
+# Set window title and icon
+# pygame.display.set_caption("")
+# favicon = pygame.image.load("")
+# pygame.display.set_icon(favicon)
+
 # Screen dimensions
-SCREEN_WIDTH = 800
-SCREEN_HEIGHT = 600
+SCREEN_WIDTH = screen_width
+SCREEN_HEIGHT = screen_height
 
 # Colors
 WHITE = (255, 255, 255)
@@ -20,7 +30,7 @@ GREEN = (50, 205, 50)
 RED = (220, 20, 60)
 YELLOW = (255, 255, 0)
 
-# Font settings
+# Fonts
 FONT_LARGE = pygame.font.SysFont('Arial', 36)
 FONT_MEDIUM = pygame.font.SysFont('Arial', 28)
 FONT_SMALL = pygame.font.SysFont('Arial', 20)
