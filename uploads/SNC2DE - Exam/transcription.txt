@@ -1,0 +1,663 @@
+  
+Biology 
+ 
+ 
+●​ Characteristics of Life 
+○​ All living organisms share several key characteristics & functions 
+■​ They are composed of one or more cells. 
+■​ They have the ability to reproduce and pass on traits to their offspring 
+(heredity) 
+■​ They create and eliminate waste, as a result of carrying out life functions. 
+■​ They grow and change over their lifetime. 
+■​ They take in energy and transform it (metabolism - all of the biochemical 
+reactions that occur in a cell) 
+■​ They respond to and interact with their environment. 
+■​ They can maintain a stable internal environment despite external change 
+(homeostasis) 
+■​ CRECIS (SEWICRC) 
+●​ Cells 
+●​ Reproduction 
+●​ Energy Use (or Metabolism) 
+●​ Response to environment (like light, temperature) 
+●​ Stable internal conditions (or homeostasis) 
+●​ Inheritance (or Growth & development) 
+●​ Change over time 
+ 
+●​ Cell Theory 
+○​ All living organisms are composed of one or more cells. 
+■​ Unicellular vs multicellular 
+■​ Prokaryotes vs. eukaryotic cells 
+○​ The cell is the basic unit of structure in a function and organization in all living 
+things.  
+■​ Cells are made up of specialized structures called organelles. 
+■​ An organelle is a structure that carries out a specific function and work 
+together to perform the life functions of the cell. 
+○​ All cells come from pre-existing cells 
+■​ For centuries, people believed in the “spontaneous generation” of life from 
+inanimate matter 
+■​ By the mid-1800s, it was understood that new cells are created from a 
+process of reproduction. 
+●​ Genetic information is duplicated & passed down through a 
+process called cell division (mitosis and cytokinesis). 
+ 
+●​ Structure and function 
+
+○​ Nucleus 
+■​ Controls all cell activities 
+■​ “Brain” of the cell 
+○​ Ribosome 
+■​ Help to produce proteins, which make up much of a cell’s structure and 
+are required for activities necessary for the cell’s survival; some 
+ribosomes float in the cytoplasm, and others are attached to the ER. 
+■​ “Protein factory workers” of the cell 
+○​ Mitochondria 
+■​ Where energy is released from glucose to fuel cell activities through 
+cellular respiration.  
+■​ “Powerhouse” of the cell 
+○​ Cytoskeleton 
+■​ Filaments (actin) and tubules (tubulin) that provide a framework for the 
+cell, helping it maintain its structure and providing “tracks” along which 
+vesicles and organelles can move. 
+■​ “Scaffolding” or “Highway” of a cell 
+■​
+ 
+○​ Endoplasmic reticulum 
+■​ A network of membrane-covered channels that transport materials made 
+in the cell; is connected to the nucleus. Detoxification, lipidification. 
+■​ Rough ER 
+●​ Has ribosomes on its surface (looks "bumpy") 
+●​ Makes proteins that are sent to the Golgi body, cell membrane, or 
+outside the cell. 
+●​ “Factory” (the workers would be ribosomes) of the cell 
+■​ Smooth ER 
+●​ No ribosomes (looks smooth)​ 
+●​ Makes lipids (fats), detoxifies harmful chemicals, and stores 
+calcium. 
+●​ “Chemistry lab” of the cell 
+○​ Cytoplasm 
+■​ Includes the organelles, and other life-supporting materials, such as sugar 
+and water, all contained by the cell membrane.  
+■​ “Land” of the cell 
+○​ Vacuoles 
+■​ Contain water and other materials that are used to store or transport small 
+molecules; plant cells tend to have one large vacuole, whereas animal 
+cells have multiple small ones.  
+■​ “Storage Container” of the cell 
+
+○​ Golgi Body 
+■​ Receives products (like proteins and lipids) from the endoplasmic 
+reticulum (ER) in small vesicles. 
+■​ Modifies them — adds sugars or other molecules to make them ready for 
+their final job. 
+■​ Packages them into new vesicles (like small shipping boxes). 
+■​ Sends them to: 
+●​ The cell membrane (to be sent out of the cell) 
+●​ Other parts of the cell (like lysosomes or storage vesicles) 
+■​ “Post office” or “packaging center” of cell 
+■​
+ 
+○​ Cell membrane 
+■​ Separates the inside of the cell from the external environment; controls 
+the flow of materials into and out of the cell. 
+■​ Outer layer of animal cells. For plant cells, it will be located just inside the 
+cell wall. 
+■​ “Security Gate” of the cell 
+○​ Vesicles 
+■​ Membrane-covered sacs that transport/store materials inside the cell and 
+sometimes help these materials cross the cell membrane to enter or exit 
+the cell. 
+■​ “Shipping boxes” of the cell 
+○​ DNA (Deoxyribonucleic Acid) 
+■​ It’s the molecule that carries genetic instructions for the growth, 
+development, functioning, and reproduction of all living organisms. 
+■​ Made of nucleotides, and each nucleotide has 3 parts (Sugar – called 
+deoxyribose, Phosphate group – links sugars together, Nitrogen base (A 
+= Adenine, T = Thymine, C = Cytosine, G = Guanine)) 
+○​ Nuclear membrane 
+■​ Controls movement of materials into and out of the nucleus. Protects 
+DNA. 
+○​ Nucleolus 
+■​ Produces ribosomes 
+■​ Is a small, dense structure inside the nucleus 
+○​ Chromatin 
+■​ Tangled Mass of DNA in nucleoplasm 
+■​ Contains genetic information 
+○​ Lysosomes 
+■​ In animals only 
+■​ Sac of digestive enzymes. Breaks down food or harmful materials for 
+reuse. Breaks down cell parts. “Suicide bags” 
+
+○​ Cell Wall (only in plant cells) 
+■​ Thicker covering around the cell membrane. Helps protect and support 
+plant cells. 
+○​ Chloroplasts (only in plant cells) 
+■​ Small green chlorophyll sacs with double membrane. Transfer energy 
+from sunlight into stored energy in carbohydrates during photosynthesis 
+○​ Centrioles 
+■​ Two rod-shaped organelles. Involved with cell division. 
+ 
+●​ Prokaryotes vs. Eukaryotic 
+○​ Prokaryotic 
+■​ No nucleus – DNA floats freely in the cytoplasm 
+■​ No membrane bound organelles (basically organelles that have their own 
+membrane) – simpler structure 
+■​ Smaller 
+■​ Not included: 
+●​ Nucleus 
+●​ Mitochondria 
+●​ ER 
+●​ Golgi Apparatus 
+●​ Lysosomes 
+●​ Vacuoles 
+●​ Chloroplast 
+○​ Eukaryotic 
+■​ True nucleus 
+■​ Larger 
+■​ Membrane-bound organelles 
+■​ Cell wall only in plants/fungi 
+■​ Reproduce by mitosis/meiosis 
+ 
+●​ Plants vs Animals 
+○​ Animals 
+■​ No cell wall – only a fixed cell membrane 
+■​ No chloroplasts – cannot photosynthesize 
+■​ Small vacuoles – more numerous not central 
+■​ Round or irregular shape 
+■​ Have centrioles for cell division 
+■​ Get energy by consuming food (heterotrophic) 
+■​ More types of lysosomes for digestion of waste 
+○​ Plants 
+■​ Cell wall: made of cellulose; gives shape and support (animal cells don’t 
+have this) 
+■​ Chloroplasts: contain chlorophyll for photosynthesis 
+
+■​ Large central vacuole: Stores water, nutrients, and waste; helps maintain 
+turgor pressure 
+■​ Rectangular, boxy shape 
+■​ No centrioles. Instead they have Microtubule Organizing Centers 
+(MTOCs), which essentially do the same thing of producing spindle fibres 
+■​ Can make their own food (autotrophic) 
+○​ Shared 
+■​ Nucleus (controls the cell) 
+■​ Cytoplasm (jelly-like fluid inside) 
+■​ Cell membrane (controls what enters and leaves) 
+■​ Mitochondria (produces energy/ATP) 
+●​ ATP: Adenosine Triphosphate is the main energy currency of the 
+cell. 
+■​ Ribosomes (make proteins) 
+■​ ER/Golgi (transport and package materials) 
+●​ Mitosis 
+○​ Why are cells so small 
+■​ Cells move materials by diffusion (dispose waste and take in nutrients) 
+■​ As a cell grows, its volume increases faster than surface area. The higher 
+the V:SA, the more inefficient the cell is. 
+●​ It takes more resources and energy to get to the different 
+organelles 
+■​ If a cell grows beyond a certain surface area to volume ratio (SA:V), not 
+enough materials will be able to cross the cell membrane quickly enough 
+to sustain the life of the cell. 
+■​ Solution: Build LARGE organisms out of many small cell units 
+ 
+○​ Why do cells divide 
+■​ Growth: Increase the number of cells in the body 
+■​ Repair: To replace dead or damaged cells 
+■​ Reproduction 
+●​ Asexual 
+○​  One parent, offsprings are 100% identical genetically = 
+clones 
+○​ e.g. bacteria, sea sponges, jellyfish 
+●​ Sexual Reproduction 
+○​ Two parents, offsprings are genetically different, ½ of the 
+DNA comes from each parent. 
+○​ What gets passed on to “daughter” cells 
+■​ Exact copy of genetic material = identical DNA to parent cell! 
+●​ Duplication/doubling of DNA occurs during interphase 
+●​ Division occurs during mitosis.  
+■​ Cytokinesis (organelles, cytoplasm, cell membrane, enzymes) 
+
+○​ Chromosome: A super condensed piece of DNA (containing many different 
+genes) that is found in the nucleus of dividing cells. 
+■​ Can be single stranded (unduplicated) or double stranded (duplicated) 
+○​ Chromatin: Uncoiled DNA found in the nucleus of non-dividing cells 
+○​ Chromatid: One half of a duplicated chromosome 
+○​ Chromatin coils up into chromosomes when it's ready to divide. It’s made up of 
+DNA and proteins 
+○​ Centromere = structure that holds together sister chromatids; spindle fibers will 
+attach here during division. 
+●​ Cell Cycle 
+○​ Interphase 
+■​ Growth (G1 - damage to DNA and G2 - correct replication) & DNA 
+replication (S - spindle fiber attachment) 
+○​ Mitosis 
+■​ Division of the DNA 
+■​ 4 stages (PMAT): 
+●​ Prophase, metaphase, anaphase, telophase. 
+○​ Cytokinesis 
+■​ Division of the cell. 
+○​
+ 
+●​ Interphase 
+○​ Longest phase of the cell cycle - 90% 
+○​ Cell is doing its “everyday job” of growth and repair 
+○​ When it receives the “signal” to prepare for division, DNA is replicated – 
+Important! 
+■​ 2 identical copies of DNA are created 
+○​ Nucleus is well-defined (still intact) and DNA is loosely packed in dense 
+chromatin fibres. 
+●​ Prophase 
+○​ Chromatin condenses into visible chromosomes 
+■​ Each consists of two sister chromatids (identical strands) connected at 
+the centromere 
+○​ Centrioles move to opposite poles of the cell 
+
+○​ Spindle fibres begin to develop – these will eventually attach to centromeres and 
+pull apart sister chromatids 
+○​ Nuclear membrane breaks down. 
+●​ Metaphase 
+○​ Nuclear membrane finished breaking down here 
+○​ Chromosomes align along the equator (middle) of the cell; “meta” = “middle” 
+○​ This helps to ensure that chromosomes will separate properly & that each 
+daughter cell will receive one copy of each chromosome. 
+○​ Spindle fibres attach to the chromosomes at the centromeres 
+●​ Anaphase 
+○​ Centromere splits and sister chromatids are moved apart to opposite poles of the 
+cell 
+■​ Now called daughter chromosomes 
+●​ Telophase 
+○​ Chromosomes arrive at the opposite poles. 
+○​ Nuclear membrane reforms & daughter nuclei are created. 
+○​ Spindle fibres dissolve/disappear. 
+○​ Chromosomes disperse & uncoil back into chromatin. 
+●​ Cytokinesis 
+○​ Cytoplasm & organelles split into two completely different daughter cells 
+○​ Animal cells pinch off near the middle, forming a “cleavage furrow” 
+○​ Plant cells form a cell plate to divide the new cells. 
+ 
+●​ Checkpoints in the cell cycle 
+○​ Cells produce proteins that constantly monitor activities & surroundings. 
+○​ Cells remain in interphase if 
+■​ It receives signals from other cells not to divide 
+■​ It doesn’t have enough nutrients 
+■​ DNA has not replicated 
+■​ DNA is damaged 
+○​ G2 Checkpoint 
+■​ Cell size 
+■​ DNA replication 
+○​ Metaphase 
+■​ Chromosome spindle attachment 
+○​ G1 
+■​ Nutrients 
+■​ Growth Factors 
+■​ DNA Damage 
+ 
+●​ Tumors 
+○​ Benign (not cancer) tumor cells grow only locally and cannot spread by invasion 
+or metastasis 
+
+○​ Malignant (cancer) cells invade neighboring tissues, enter blood vessels, and 
+metastasize to different sites. 
+○​ Metastasis 
+■​ What makes some tumors so deadly is their ability to metastasize through 
+blood and lymph 
+■​ They break apart from other parts and go into other areas. 
+■​ Secondary tumor sites can establish at other locations throughout the 
+body 
+■​ Secondary tumors are the same type of cancer as the primary tumor 
+●​ Cancer causes 
+○​ Random changes in DNA 
+■​ May result in the death of the cell 
+■​ May occur in a gene that is involved in cell division 
+○​ Spontaneous or can be inherited 
+○​ Cancer tends to involve multiple mutations, unless it's in a tumor suppressor 
+gene.  
+○​ It doesn’t allow the organs to follow a pattern, it’s just random growth 
+○​ Environmental Factors (Carcinogens) 
+■​ Chemical or physical agent that has the ability to cause cancer 
+■​ Mutagen: substance that induces DNA mutations (above the normal rate) 
+■​ viral (HPV, hepatitis B) 
+■​ radiation (ultraviolet radiation → skin cancer) 
+■​ chemicals (tobacco → lung cancer) 
+●​ Screening 
+○​ checking for cancer even if no symptoms 
+■​ example: mammogram, prostate, Pap test 
+■​ “ABCD of Moles” 
+■​
+ 
+●​ IMAGING 
+○​ Endoscopy 
+○​ X-ray 
+○​ Ultrasound 
+○​ CT Scan 
+○​ MRI 
+○​ Blood tests for cancer specific markers 
+
+■​ PSA And prostate 
+○​ Biopsy 
+■​ Taking a piece of tissue and examining.  
+●​ Treatment 
+○​ Surgery 
+■​ If the tumor or cancerous tissue is easily accessed & well defined, it may 
+be surgically removed 
+○​ Chemotherapy 
+■​ Drugs are used to slow/stop cancer cell division & metastasis and to kill 
+the cells 
+■​ Side effects may include hair loss, nausea and fatigue 
+■​ Often the first stages of cancer treatment; used to shrink a tumour for 
+surgical removal or for radiation treatment. 
+■​ The bloodstream is used to transport the drugs throughout the body. 
+○​ Radiation 
+■​ Ionizing radiation disrupts cell division in rapidly dividing cancer cells 
+■​ A focused beam is used to target the tumour or a radioactive source is 
+implanted into the tumour 
+○​ Oncolytic Viruses 
+○​ Immunotherapy 
+■​ Immunotherapy is a type of cancer treatment that helps your immune 
+system fight cancer. 
+■​ T-cell transfer therapy 
+●​ a treatment that boosts the natural ability of your T cells to fight 
+cancer 
+●​ In this treatment, immune cells are taken from your tumor.  
+●​ Those that are most active against your cancer are selected or 
+changed in the lab to better attack your cancer cells, grown in 
+large batches, and put back into your body through a needle in a 
+vein. 
+■​ Monoclonal antibodies 
+●​ Immune system proteins created in the lab that are designed to 
+bind to specific targets on cancer cells.  
+●​ Some monoclonal antibodies mark cancer cells so that they will be 
+better seen and destroyed by the immune system. Such 
+monoclonal antibodies are a type of immunotherapy. 
+ 
+●​ Benefits of being multicellular 
+○​ Larger size while maintaining efficiency 
+○​ Longer life span 
+■​ Survival of the organism does not depend on just one cell 
+○​ Specialization 
+■​ Cells with unique shapes/sizes/features can adapt to perform specific 
+functions 
+
+■​ This increases the complexity of the organism 
+ 
+●​ Red Blood Cells 
+○​ Designed to carry oxygen 
+○​ Found in blood 
+○​ Structural 
+■​ Large SA - Maximizes oxygen absorption 
+■​ Hemoglobin - Iron-containing protein that binds oxygen 
+■​ No nucleus - more space for haemoglobin = more room to carry 
+■​ Round edges - travel through blood vessels more easily 
+ 
+●​ Muscle Cells 
+○​ Designed to shorten or contract 
+○​ Found in muscle tissue 
+○​ Three main types: cardiac, smooth, and skeletal 
+○​ Structural 
+■​ Lots of mitochondria - high energy requirements for muscles to function. 
+■​ Multi-nucleated - able to support the muscles as they grow. 
+■​ Cylindrical and striated - able to support movement. 
+ 
+●​ Ciliated Cells 
+○​ Designed to prevent airway/lung damage 
+○​ Found in the lining of respiratory tract 
+○​ Structure 
+■​ Cilia 
+●​ Coordinated sweep of mucus with trapped dust and bacteria back 
+up the trachea to be swallowed/coughed out 
+■​ High folded shape  
+●​ Increased surface area 
+■​ Lots of mitochondria 
+●​ Powers the movement of cilia 
+ 
+●​ Sperm Cells 
+○​ Designed to fertilize (ova) 
+○​ Found in the testes 
+○​ Structure 
+■​ Pointed head - penetrate the egg more easily 
+■​ Tail - provides movement so that it an swim and find an egg cell 
+■​ Lots of mitochondria - provide power for sustained swimming. 
+ 
+●​ Root hair cells 
+○​ Designed to absorb water & nutrients from soil 
+○​ Found on the roots of plants 
+○​ Structural features 
+
+■​ Large surface area - speeds up absorption of water and nutrients via 
+diffusion. 
+■​ Semi-permeable membrane - permits water and minerals to enter the cell 
+but not leave.  
+ 
+●​ Cellular differentiation 
+○​ All body cells in an organism are produced by mitosis 
+○​ These cells, that start out the same, develop into different cells with specific 
+functions (specialized cells) 
+○​ Cell differentiations refers to the process during which cells become specialized 
+○​ Once specialized, a cell no longer undergoes mitosis. 
+○​ Why? 
+■​ 1. Contents of the cell 
+■​ 2. Environmental conditions 
+■​ 3. Influence of neighboring cells 
+ 
+ 
+●​ Cell Specialization 
+○​ 50 – 75 Trillion cells in your body 
+○​ 220 specialized cells 
+■​ Heart 
+■​ Nerve 
+■​ Blood 
+■​ Sperm 
+■​ Etc. 
+○​ Cells specialize by developing to produce different proteins, which perform 
+specific functions 
+■​ This can cause them to look different. 
+○​ Even though all cells have the same genes (regions of DNA that encode 
+proteins), not all genes are ‘turned on’, so not all proteins are produced. 
+○​ In plants, undifferentiated cells that can become specialized cells are called 
+meristematic cells 
+○​ In animals, these cells are called stem cells 
+○​ Both meristematic and stem cells produce more cells so that an organism can 
+grow. 
+○​ Stem cells undergo mitosis to make more stem cells or two specialized cells 
+○​ Once specialized, a cell no longer undergoes mitosis. 
+○​ In plants, undifferentiated cells that can become specialized cells are called 
+meristematic cells. 
+○​ In animals, these cells are called stem cells. 
+●​ Stem cells 
+○​ Specialization starts with stem cells, which are undifferentiated (or partially 
+differentiated) cells that have the potential to grow into many different cell types 
+during development. 
+
+○​ Sources of human stem cells include: 
+■​ Blood & bone marrow (can be donated) 
+■​ Adipose (body fat) tissue 
+■​ Umbilical cord blood (Can be banked) 
+■​ Early-stage embryos 
+●​ Ethical concerns as they are found in embryos, these can become 
+anything, the others change based on their environment, but 
+these, they can become anything. You can harvest small amounts 
+from umbilical cord, but for large ones, you have to destroy the 
+embryo. 
+○​ Adult 
+■​ Mostly found in the bone marrow 
+■​ Have undergone many levels of differentiation and specialization, leaving 
+them with a limited ability to create a variety of cell types. 
+■​ Most are involved in the replacement of damaged tissues (blood, skin, 
+liver) 
+○​ Induced Pluripotent are just somatic that were genetically reprogrammed to 
+behave like an embryonic cell. 
+○​ You can use stem cell therapy to prevent a disease or condition. 
+■​ Bone marrow transplantation in leukemia. 
+■​ Restoration of vision via transplantation of corneal stem cells. 
+■​ Treatment of neurodegenerative conditions such as Parkinson’s and 
+Alzheimer’s disease. 
+■​ Regeneration of heart muscle cells following heart attacks. 
+ 
+●​ Animal Tissues 
+○​ Tissue is defined as a group of cells that are similar in structure and function. The 
+four main tissue types found in all animals are: 
+○​ Epithelial tissue 
+■​ Lines body surfaces and cavities (skin) 
+■​ Functions as a protective, waterproof barrier. 
+■​ Some epithelial cells form glands 
+■​ Can be simple or stratified. 
+■​ Different shapes: squamous, cuboidal, columnar. 
+○​ Muscular Tissue 
+■​ Specialized for contraction 
+■​ Three types: 
+●​ Skeletal: Attached to bones; generates body movement 
+●​ Cardiac muscle: Found in heart; contracts in coordinated fashion 
+●​ Smooth muscle: Lines hollow organs; propels materials through 
+organs. 
+○​ Nervous tissue 
+■​ Specialized for communication 
+■​ Two major cell types: 
+
+●​ Neurons: Elongated cells with many projections (dendrites); 
+communicate via electrical signals. 
+●​ Glial: Support cells for neurons. 
+○​ Connective Tissue 
+■​ Varies widely in form and function 
+■​ Includes everything that isn’t epithelial, muscular or nervous. 
+■​ Examples: 
+●​ Bone: Structural support, protection, mineral storage 
+●​ Cartilage: Flexible structural support, cushioning 
+●​ Adipose (fat): Energy storage, insulation, cushioning 
+●​ Blood: Fluid tissue containing blood cells (RBCs, WBCs, platelets) 
+●​ Human Organ Systems 
+○​ Circulatory: Transports nutrients and oxygen to body tissues 
+○​ Digestive: Breaks down food into nutrients 
+○​ Respiratory: Exchanges oxygen and carbon dioxide with the environment 
+○​ Excretory/Urinary: Filters wastes from the bloodstream 
+○​ Lymphatic/Immune: Defends against disease 
+○​ Muscular: Enables movement 
+○​ Endocrine: Hormones. It tells our body what to do and when to do it.  
+○​ Reproductive: Production of offspring and sex characteristics 
+○​ Integumentary: Protective, waterproof barrier 
+○​ Nervous: Senses changes in environment and coordinates responses 
+○​ Skeletal: Provides structural support. 
+●​ Digestive 
+○​ Function 
+■​ Ingestion of food 
+●​ Mouth 
+○​ Teeth mechanically break down food. 
+○​ Salivary glands produce saliva, which lubricates food & 
+contains enzymes that break down starch (chemical 
+digestion) 
+○​ Pharynx 
+■​ Connects the mouth to esophagus 
+○​ Esophagus 
+■​ Smooth muscle contracts in a wave to push food 
+food down to the stomach 
+■​ Digestion of food into nutrients 
+●​ Mechanical and chemical 
+●​ Stomach 
+○​ Secretes gastric juice (hydrochloric acid + digestive 
+enzymes + mucus) 
+○​ Smooth muscle churns to further mechanically break down 
+food. 
+●​ Accessory Organs 
+
+○​ Liver – produces bile (yellow liquid that breaks down fats) 
+■​ Absorption of nutrients 
+●​ Small intestine 
+○​ Enzymes, bile & pancreas juices complete chemical 
+digestion in the first segment of the small intestine. 
+○​ Nutrients are absorbed into the bloodstream through  the 
+walls of the small intestine 
+○​ Specialized structures called villi and microvilli increase the 
+surface area for absorption. 
+■​ Elimination of solid wastes 
+●​ Large intestine (colon) 
+○​ Absorbs water, vitamins and salt 
+○​ Smooth muscle contractions move solid waste (feces) 
+towards rectum. 
+●​ Rectum 
+○​ Solid waste accumulates & is excreted via the anal 
+sphincter. 
+■​ Major Organs 
+●​ Mouth, Pharynx, esophagus, stomach, small & large intestine, 
+rectum 
+■​ Accessory organs 
+●​ Liver – produces bile (yellow liquid that breaks down fats) 
+●​ Gallbladder – stores bile & releases it into small intestine 
+●​ Pancreas – releases digestive enzymes into the small intestine. 
+●​ Circulatory 
+○​ Function 
+■​ Transportation of nutrients, gases, and waste throughout the body. 
+○​ 2 circuits 
+■​ Pulmonary - deoxygenated blood travels from heart to the lungs to offload 
+carbon dioxide and gain oxygen 
+■​ Systemic - oxygenated blood travels from the heart to the body tissues to 
+give oxygen and take away carbon dioxide 
+○​ Major organs 
+■​ Heart, blood vessels (arteries, veins, capillaries), blood 
+○​ Blood 
+■​ Plasma  
+●​ Yellow, protein-rich liquid (mostly water) that carries blood cells; 
+55% of total blood volume 
+■​ Red Blood Cells 
+●​ Transport oxygen to body tissues.  
+■​ White Blood cells (leukocytes) 
+●​ Immune cells that recognize and destroy foreign molecules.  
+■​ Platelets 
+●​ Cell fragments involved in blood clotting 
+
+○​ Blood vessels 
+■​ Arteries 
+●​ Thick-walled, elastic blood vessels that carry oxygenated blood 
+away from the heart 
+○​ Pulmonary artery carries deoxygenated blood 
+○​ Thick; able to withstand pressure 
+●​ Veins 
+○​ Thin-walled, wide blood vessels that carry deoxygenated 
+blood back to the heart 
+■​ One-way valves to prevent backflow 
+■​ Pulmonary vein carries deoxygenated blood 
+○​ Thin; blood has less pressure as its deoxygenated 
+●​ Capillaries 
+○​ Tiny, thin-walled vessels surrounding body tissues; allow 
+exchange of gases & nutrients 
+○​ Small and thin-walled to easily allow for this.  
+■​ Heart 
+●​ Pump muscles composed of cardiac muscle tissue that contracts 
+as a single unit 
+●​ Values located in the heart open when blood is pushed through 
+them and close to prevent backflow 
+○​ Unidirectional flow of blood through the heart 
+●​ 4 chambers 
+○​ 2 upper – left & right atrium 
+○​ 2 lower – left and right ventricle 
+○​ Right is deoxygenated, left is oxygenated 
+●​ Respiratory 
+○​ Gas exchange (Oxygen is inhaled, carbon dioxide is exhaled) 
+○​ Filtration and humidification of inhaled air 
+○​ Close connection with circulatory system 
+○​ Major organs 
+■​ Nasal and oral cavities, larynx, trachea, bronchi & bronchioles (lungs), 
+diaphragm, rib muscles 
+■​ Passes to lungs via the pharynx, larynx and trachea 
+●​ Trachea is lined with cilia and mucus to filter particles 
+■​ Bronchi branch into smaller bronchioles which bring air deeper into the 
+lungs 
+■​ Lungs are packed with alveoli (site of gas exchange) 
+○​ Gas exchange 
+■​ Alveoli 
+●​ Tiny, thin-walled air sacs surrounded by capillaries (connection 
+with circulatory system) 
+●​  Inhaled oxygen moves from alveolar sac to deoxygenated blood 
+○​ Gets carried to body tissues 
+
+●​ Carbon dioxide moves from deoxygenated blood to alveolar sac 
+○​ Gets exhaled 
+■​ Diffusion is when things move from a high area of concentration to a low 
+area of concentration.  
+●​ Interactions 
+○​ Oxygen diffuses from the air in the respiratory system to blood in the circulatory 
+system; carbon dioxide diffuses from blood into air. 
+○​ Nutrients diffuse from food in the digestive system into the circulatory system. 
+○​ Oxygen and nutrients diffuse from circulatory system into body cells 
+○​ Carbon dioxide and wastes diffuse from body cells into the circulatory system. 
+○​ Wastes from metabolic processes pass from the circulatory system into the 
+excretory system. 
+○​ Nervous system (rapid response) and endocrine system (prolonged response) 
+work together to regulate all systems & bodily functions.  
+ 
