@@ -67,6 +67,39 @@ class Button:
         return self.check_hover(mouse_pos) and mouse_clicked
 
 
+class TextInput:
+    def __init__(self, x, y, width, height, font=FONT_SMALL, color=WHITE, border_color=BLACK):
+        self.rect = pygame.Rect(x, y, width, height)
+        self.color = color
+        self.border_color = border_color
+        self.text = ""
+        self.font = font
+        self.active = False
+
+    def handle_event(self, event):
+        if event.type == pygame.MOUSEBUTTONDOWN:
+            # Toggle active state if clicked
+            self.active = self.rect.collidepoint(event.pos)
+        if self.active and event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_RETURN:
+                self.active = False
+            elif event.key == pygame.K_BACKSPACE:
+                self.text = self.text[:-1]
+            else:
+                self.text += event.unicode
+
+    def draw(self, screen):
+        # Draw box
+        pygame.draw.rect(screen, self.color, self.rect)
+        pygame.draw.rect(screen, self.border_color, self.rect, 2)
+        # Draw text
+        txt_surface = self.font.render(self.text, True, BLACK)
+        screen.blit(txt_surface, (self.rect.x+5, self.rect.y+8))
+
+    def get_text(self):
+        return self.text
+
+
 class Flashcard:
     def __init__(self, question: str, options: List[str], correct_answer: int):
         self.question = question
